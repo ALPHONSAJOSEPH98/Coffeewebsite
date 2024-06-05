@@ -1,0 +1,64 @@
+h1{font-family: "Edu TAS Beginner", cursive;}
+*{padding: 0px; margin: 0px;}
+h1{color: white; padding: 5px; margin-left: 10px; font-size: xx-large; margin-top: 7px; }
+ul{display: flex; justify-content: end; margin-left: 560px; margin-top: 30px;}
+li{list-style: none; padding: 0px 5px; }
+a{text-decoration: none; color: aliceblue;}
+a:hover{background-color: white; color: brown;}
+.d2{display: flex;}
+.d2 img{border:1px solid brown ; border-radius: 50% ; margin-left: 5px;}
+#b1{margin-left: 10px; color: white; margin-top: 5px;  background-color: rgb(97, 5, 5) ;}
+#b1:hover{background-color: white; color: brown;}
+header{position: sticky; top: 5px;}
+nav{position: sticky; top: 30px;  background-color: rgb(97, 5, 5);}
+#i1{display: flex; justify-content:center; margin-top: 0px; width: 100%;}
+#i1>img{border: 2px solid rgb(97, 5, 5); width: 600px; height: 500px; }
+.d3{background-color:  white ;  width: 800px; height: 300px; margin: 80px; margin-left: 200px; border-radius: 50px;}
+.d3>h4{font-size: xx-large;color:rgb(97, 5, 5) ; }
+.d3:hover{background-color: rgb(97, 5, 5) ; color: white;}
+.d3>h4:hover{color: white;}
+h4{padding: 40px 80px ; }
+.d3>p{text-align: justify; padding: 0px 15px;}
+td{width: 400px; height: 300px;  }
+tr{ display: flex; justify-content: space-around; padding-top: 50px;}
+td>p{text-align: justify; padding: 30px;}
+td>img{padding-top: 20px; padding-left:20px ;}
+td>h5{text-align: center; font-size: x-large;}
+.d4{width:700px ; margin-left:200px ; border: 0px solid  rgb(97, 5, 5) ; margin-top: 50px; border-radius: 30px; }
+#hh{color: rgb(97, 5, 5) ; margin-left: 50px;}
+#hhh{color: rgb(97, 5, 5) ; margin-left: 50px; margin-top: 50px;}
+.d5{ width: 900px; border: 1px solid brown; margin-left: 100px; margin-top: 70px; border-radius: 10%;}
+.d5>table>tr{width:800px ;}
+.d5 p{text-align: justify;}
+.d5 img{width: 150px ; height: 100px;}
+.d5 td{width: 200px;}
+.d6 tr{ margin-top: 0px;}
+.d6{width:1150px ; border: 1px solid brown; border-radius: 5px; margin-left: 10px; margin-top: 70px;}
+.d6 td{width: 200px; height:360px ; margin-top: 0px; margin-left: 15px; }
+.d6 img {width:190px ; height:250px ; margin-top: 0px; padding: 5px;}
+.d6 h6{text-align: center;}
+.b3{margin-left: 65px; margin-top:8px ;}
+i{color:white ; margin-left: 5px; margin-top: 5px; }
+.a2{margin-left: 650px;}
+.d7{display: flex;}
+.d8 img{width:500px; height: 400px; }
+.d8{display: flex; justify-content: space-evenly;}
+footer{background-color: rgb(97, 5, 5)  ;}
+.d9>h3{color: white; text-align: center;}
+.d9{margin-left: 100px; border: 1px solid white; width: 390px;}
+input{width: 250px; height: 30px; margin-left: 20px;}
+textarea{width: 300px; height: 150px;  margin-left: 20px;}
+.d10{display: flex; }
+.d11{margin-left: 150px;}
+.d12>h3{color: white; text-align: center; padding: 20px;}
+.d12 a {margin: 20px; }
+.d13{text-align: end;}
+.d13>img{width: 80px; height: 80px; border-radius: 100%; }
+.d13{position: sticky; top: 150px;}
+.d15>h3{color: white; text-align: center; padding: 10px 0px;}
+.d15>a{margin: 10px;}
+.d15{margin-top: 15px;}
+#b9{margin-left: 150px; margin-top: 20px; background-color: white;}
+#b9:hover{background-color: brown; color: white;}
+.b3{background-color: rgb(18, 207, 18); border: 1px solid rgb(18, 207, 18);padding: 5px; border-radius: 30px;}
+.b3:hover{background-color: white; color:rgb(18, 207, 18) ;}
