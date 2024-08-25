@@ -65,7 +65,7 @@ nav{
     background-color:  white ;  
     width: 800px; 
     height: 300px; 
-    margin: 80px; 
+    margin: 30px; 
     margin-left: 200px; 
     border-radius: 50px;
 }
@@ -79,6 +79,9 @@ nav{
 }
 .d3>h4:hover{
     color: white;
+}
+h2{
+    margin-top: 0px;
 }
 h4{
     padding: 40px 80px ; 
@@ -325,6 +328,9 @@ h4{
     margin: 10px; 
     margin-left: 40px; 
     border-radius: 50px;
+}
+h2{
+    margin-top: 40px;
 }
 .d4{
     width:400px ; 
